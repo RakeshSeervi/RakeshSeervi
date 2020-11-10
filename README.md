@@ -113,5 +113,5 @@
 </table>
  
 <p align="left"> 
-  <img width="612.5px" src="https://github-readme-stats.vercel.app/api?username=RakeshSeervi&show_icons=true&theme=gotham&count_private=true" alt="RakeshSeervi">
+  <img width="602.55px" src="https://github-readme-stats.vercel.app/api?username=RakeshSeervi&show_icons=true&theme=gotham&count_private=true" alt="RakeshSeervi">
 </p>
