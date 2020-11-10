@@ -36,7 +36,7 @@
 ### Skills
 
 <table>
-  <tr>
+  <tr width="306.25">
     <td>
       <h6>Programming Languages</h6>
       <span>
@@ -113,5 +113,5 @@
 </table>
  
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=RakeshSeervi&show_icons=true&theme=gotham&count_private=true" alt="RakeshSeervi">
+  <img width="612.5px" src="https://github-readme-stats.vercel.app/api?username=RakeshSeervi&show_icons=true&theme=gotham&count_private=true" alt="RakeshSeervi">
 </p>
