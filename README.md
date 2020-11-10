@@ -86,3 +86,5 @@
   </td>
   </tr>
  </table>
+ 
+ <p> <img src="https://github-readme-stats.vercel.app/api?username=RakeshSeervi&show_icons=true&theme=gotham" alt="RakeshSeervi" />
