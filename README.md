@@ -36,7 +36,7 @@
 ### Skills
 
 <table>
-  <tr width="306.25">
+  <tr>
     <td>
       <h6>Programming Languages</h6>
       <span>
@@ -48,7 +48,7 @@
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
       </span>
     </td>
-    <td width="306.25px">
+    <td>
       <h6>Database</h6>
       <span>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -58,7 +58,7 @@
         <code><img height="16" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/320px-MongoDB-Logo.svg.png"></code>
       </span>
     </td>
-    <td width="306.25px">
+    <td>
       <h6>Mobile App Development</h6>
       <span>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
