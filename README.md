@@ -1,6 +1,9 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3>Hi there 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   <img align=right src="https://komarev.com/ghpvc/?username=RakeshSeervi&label=Profile%20views" alt="RakeshSeervi" />
+</h3>
 
-<h3>A passionate developer from India</h3>
+<h3 style="float:inline-end">A passionate developer from India</h3>
 
 <ul>
   <li>🌱 I’m currently learning <b>AI</b>.</li>
@@ -116,10 +119,5 @@
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
       </span>
     </td>
-  </tr>
-  
+  </tr> 
 </table>
- 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=RakeshSeervi&show_icons=true&theme=gotham&count_private=true" alt="RakeshSeervi">
-</p>
